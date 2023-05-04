@@ -15,7 +15,8 @@ namespace LogicaLPracticeProblems
             //FibonacciSeries.Find();
             //Reverse.Check();
 
-            PerfectNumber.check();
+            //PerfectNumber.check();
+            PrimeNumber.Check();
             Console.ReadKey();
         }
     }
