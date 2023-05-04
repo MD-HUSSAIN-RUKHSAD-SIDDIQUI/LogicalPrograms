@@ -11,7 +11,8 @@ namespace LogicaLPracticeProblems
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to logical Programs:");
-            FibonacciSeries.Find();
+            //FibonacciSeries.Find();
+            Reverse.Check();
             Console.ReadKey();
         }
     }
