@@ -12,7 +12,8 @@ namespace LogicaLPracticeProblems
         {
             Console.WriteLine("Welcome to logical Programs:");
             //FibonacciSeries.Find();
-            Reverse.Check();
+            //Reverse.Check();
+            PerfectNumber.check();
             Console.ReadKey();
         }
     }
