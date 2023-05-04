@@ -1,8 +1,0 @@
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\bin\Debug\LogicaLPracticeProblems.exe.config
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\bin\Debug\LogicaLPracticeProblems.exe
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\bin\Debug\LogicaLPracticeProblems.pdb
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\obj\Debug\LogicaLPracticeProblems.csproj.AssemblyReference.cache
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\obj\Debug\LogicaLPracticeProblems.csproj.SuggestedBindingRedirects.cache
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\obj\Debug\LogicaLPracticeProblems.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\obj\Debug\LogicaLPracticeProblems.exe
-C:\Users\hp\Desktop\LogicalProblems\LogicaLPracticeProblems\obj\Debug\LogicaLPracticeProblems.pdb
