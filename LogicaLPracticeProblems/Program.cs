@@ -16,7 +16,8 @@ namespace LogicaLPracticeProblems
             //Reverse.Check();
 
             //PerfectNumber.check();
-            PrimeNumber.Check();
+            //PrimeNumber.Check();
+            GenerateCouponCode.GetDistinctCoupons(12);
             Console.ReadKey();
         }
     }
